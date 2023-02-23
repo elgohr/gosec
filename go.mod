@@ -10,7 +10,7 @@ require (
 	github.com/onsi/gomega v1.20.2
 	golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.3.8
 	golang.org/x/tools v0.1.12
 	gopkg.in/yaml.v2 v2.4.0
 )
